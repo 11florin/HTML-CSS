@@ -1,24 +1,47 @@
-Cantilever – Mini Project
+🌐 HTML & CSS Project
 
-Cantilever is a bold and artistic conference landing page concept, designed for coders who think like artists.  
-This mini-project demonstrates creative typography, layout styling, and visual flair using pure HTML and CSS.
+A simple project built using HTML and CSS, created to practise the fundamentals of front-end web development.
 
-Features
+🧠 Description
 
-- Custom web fonts using **Space Mono**
-- Vibrant text shadows and color effects
-- Clean semantic HTML structure
-- Simple, focused layout with responsive-friendly code
+This project demonstrates how to combine a web page’s structure (HTML) with visual styling (CSS).
+The goal is to design a clean, modern, and responsive web page layout.
 
-Files
+🛠️ Technologies Used
 
-- `index.html` – Main HTML file
-- `style.css` – Stylesheet with all custom styles
+HTML5 – for page structure
 
-Inspiration
+CSS3 – for layout, styling, and animations
 
-The design was inspired by modern art-centric web interfaces and minimalistic coding conference landing pages.
+🚀 Features
 
-License
+Responsive design (works well on various screen sizes)
 
-This project is open source and available under the [MIT License](LICENSE).
+Clean and organised code
+
+Modern interface elements such as buttons, cards, and sections
+
+📂 Project Structure
+📁 html-css
+├── index.html
+├── index.css
+└── README.md
+
+🖼️ Preview
+
+
+💡 How to Run Locally
+
+Clone or download this repository:
+
+git clone https:
+
+
+Open the index.html file in your web browser.
+
+📫 Contact
+
+If you’d like to share feedback or suggestions, feel free to reach out:
+✉️ albuflorin929:yahoo.co.uk
+
+💻 https://github.com/11florin

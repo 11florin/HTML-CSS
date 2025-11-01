@@ -23,9 +23,12 @@ Modern interface elements such as buttons, cards, and sections
 
 📂 Project Structure
 📁 html-css
-├── index.html
-├── index.css
-└── README.md
+
+index.html
+
+index.css
+
+README.md
 
 🖼️ Preview
 

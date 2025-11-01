@@ -34,7 +34,7 @@ Modern interface elements such as buttons, cards, and sections
 
 Clone or download this repository:
 
-git clone https:
+git clone https: https://github.com/11florin/HTML-CSS.git
 
 
 Open the index.html file in your web browser.
